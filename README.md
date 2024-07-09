@@ -93,9 +93,7 @@
 </a>
 </li>
 
-
 <br>
-
 
 <li><img src="https://img.shields.io/badge/<brandon_devonport>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 	
