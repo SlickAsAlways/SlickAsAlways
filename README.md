@@ -20,7 +20,7 @@
 - A passionate self-taught developer and IT enthusiast 
 - Playing games in my spare time
 - IT Support technician apprentice
-- Eithcal hacking/Cyber security
+- Ethical hacking/Cyber security
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
