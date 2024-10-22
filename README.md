@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/<brandon_devonport>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/<SlickAsAlways>%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"/>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4729baf2-731d-4d88-8596-3fd73a1162e6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 <br>
