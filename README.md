@@ -18,8 +18,8 @@
 <br>
 
 - A passionate self-taught developer and IT enthusiast 
-- Playing games in my spare time
-- IT Support technician apprentice
+- Playing games and coding in my spare time
+- IT Support Technician 
 - Ethical hacking/Cyber security
 <br><br>
 
