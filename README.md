@@ -52,8 +52,10 @@
 <img src="https://img.shields.io/badge/<brandon_devonport>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/<SlickAsAlways>%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"/>
 <img src="https://github.com/user-attachments/assets/84bcf7ce-0f7e-4b43-b198-11cc4f46f3d8"/>
+<img src="https://github.com/user-attachments/assets/2d021062-9bcc-4c87-850d-8c722ed6007f"/> 
 
 </p>
+
 
 <br>
 <br>
