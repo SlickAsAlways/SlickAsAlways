@@ -20,7 +20,7 @@
 
 - A passionate self-taught developer and IT enthusiast 
 - Playing games and coding in my spare time
-- IT Support Technician 
+- Lead Developer @ Mastercopy 
 - Ethical hacking/Cyber security
 <br><br>
 
