@@ -12,7 +12,6 @@
 - 🎮 Gaming + coding in my spare time  
 - 🚀 Lead Developer @ Mastercopy  
 - 🛡️ Interested in Ethical Hacking & Cybersecurity  
-test
 ---
 
 ## 🛠️ Skills
