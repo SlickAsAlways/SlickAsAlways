@@ -59,11 +59,3 @@
 </p>
 
 ---
-
-## 🛡️ TryHackMe
-
-> GitHub strips `<iframe>` tags from README files for security reasons, so the iframe you had at the bottom won't render on GitHub. Below are two safe alternatives — pick one and paste it in place of the old iframe.
-
-**Option A — Linked badge (recommended)**
-```md
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-6515966-brightgreen?style=for-the-badge)](https://tryhackme.com/p/6515966)
