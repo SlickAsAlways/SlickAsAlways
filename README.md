@@ -14,7 +14,7 @@
 💻 Passionate self-taught developer & IT enthusiast  
 🚀 Lead Developer @ Mastercopy  
 ⚙️ DevOps & Cloud Infrastructure  
-🛡️ Ethical Hacking & Cybersecurity  
+🛡️ Ethical Hacking & Cybersecurity
 
 ---
 
@@ -22,19 +22,19 @@
 
 ### Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br><br>
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript"/><br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><br><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br><br>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Java-%230A84FF?style=for-the-badge&logo=openjdk&logoColor=white&color=0A84FF" alt="Java"/><br><br>
+  <img src="https://img.shields.io/badge/JavaScript-%230A84FF?style=for-the-badge&logo=javascript&logoColor=white&color=0A84FF" alt="JavaScript"/><br><br>
+  <img src="https://img.shields.io/badge/HTML5-%230A84FF?style=for-the-badge&logo=html5&logoColor=white&color=0A84FF" alt="HTML5"/><br><br>
+  <img src="https://img.shields.io/badge/C++-%230A84FF?style=for-the-badge&logo=cplusplus&logoColor=white&color=0A84FF" alt="C++"/><br><br>
+  <img src="https://img.shields.io/badge/Python-%230A84FF?style=for-the-badge&logo=python&logoColor=white&color=0A84FF" alt="Python"/><br><br>
+  <img src="https://img.shields.io/badge/React-%230A84FF?style=for-the-badge&logo=react&logoColor=white&color=0A84FF" alt="React"/>
 </div>
 
 ### Tools & Platforms
 <div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="VS Code"/><br><br>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%230A84FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0A84FF" alt="VS Code"/><br><br>
+  <img src="https://img.shields.io/badge/AWS-%230A84FF?style=for-the-badge&logo=amazonaws&logoColor=white&color=0A84FF" alt="AWS"/><br><br>
+  <img src="https://img.shields.io/badge/Docker-%230A84FF?style=for-the-badge&logo=docker&logoColor=white&color=0A84FF" alt="Docker"/>
 </div>
 
 ---
@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="mailto:brandondevonport123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%230A84FF?style=for-the-badge&logo=gmail&logoColor=white&color=0A84FF" alt="Gmail"/>
   </a>
   <a href="https://x.com/SlickAsAlways" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-%230A84FF?style=for-the-badge&logo=x&logoColor=white&color=0A84FF" alt="X"/>
   </a>
   <a href="https://instagram.com/brandon_devonport" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%230A84FF?style=for-the-badge&logo=instagram&logoColor=white&color=0A84FF" alt="Instagram"/>
   </a>
 </p>
 
@@ -68,11 +68,6 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/SlickAsAlways" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/SlickAsAlways/SlickAsAlways/main/assets/tryhackme-badge.png"
-      width="520"
-      style="border-radius:12px;"
-      alt="TryHackMe Badge"
-    />
+    <img src="https://img.shields.io/badge/TryHackMe-%230A84FF?style=for-the-badge&logo=tryhackme&logoColor=white&color=0A84FF" alt="TryHackMe"/>
   </a>
 </p>
