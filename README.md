@@ -11,31 +11,10 @@
 
 ## 📌 About Me
 
-💻 Passionate self-taught developer & IT enthusiast
-🚀 Lead Developer @ Mastercopy
-⚙️ DevOps & Cloud Infrastructure
-🛡️ Ethical Hacking & Cybersecurity 
-
----
-
-## 🛠️ Skills
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+💻 Passionate self-taught developer & IT enthusiast  
+🚀 Lead Developer @ Mastercopy  
+⚙️ DevOps & Cloud Infrastructure  
+🛡️ Ethical Hacking & Cybersecurity
 
 ---
 
@@ -43,30 +22,16 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SlickAsAlways&include_all_commits=true&count_private=true&show_icons=true&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=SlickAsAlways&include_all_commits=true&count_private=true&show_icons=true&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&bg_color=0D1117&theme=dark"
     width="450"
+    alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SlickAsAlways&layout=compact&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SlickAsAlways&layout=compact&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117&theme=dark"
     width="375"
+    alt="Top languages"
   />
 </div>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:brandondevonport123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SlickAsAlways" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/brandon_devonport" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -74,6 +39,10 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/SlickAsAlways" target="_blank">
-    <img src="assets/tryhackme-badge.png" width="520" style="border-radius:12px;" />
+    <!-- Option A: Repo asset (recommended if you want a custom PNG)
+         Use raw.githubusercontent link: https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/tryhackme-badge.png -->
+    <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/assets/tryhackme-badge.png" width="520" style="border-radius:12px;" alt="TryHackMe Badge"/>
+    <!-- Option B: Fallback shield badge (no repo image required) -->
+    <!-- <img src="https://img.shields.io/badge/TryHackMe-SlickAsAlways-4AB1FF?style=for-the-badge" alt="TryHackMe"/> -->
   </a>
 </p>
