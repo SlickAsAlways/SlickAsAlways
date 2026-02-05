@@ -20,18 +20,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SlickAsAlways&include_all_commits=true&count_private=true&show_icons=true&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&bg_color=0D1117&theme=dark"
-    width="450"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SlickAsAlways&layout=compact&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117&theme=dark"
-    width="375"
-    alt="Top languages"
-  />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SlickAsAlways/github-readme-stats)
 
 ---
 
