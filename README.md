@@ -73,7 +73,7 @@
 ## 🛡️ TryHackMe
 
 <p align="center">
-  <a href="https://tryhackme.com/p/6515966" target="_blank">
+  <a href="https://tryhackme.com/p/SlickAsAlways" target="_blank">
     <img src="assets/tryhackme-badge.png" width="520" style="border-radius:12px;" />
   </a>
 </p>
