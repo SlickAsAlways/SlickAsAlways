@@ -11,10 +11,10 @@
 
 ## 📌 About Me
 
-- 💻 Passionate self-taught developer & IT enthusiast  
-- 🎮 Gaming + coding in my spare time  
-- 🚀 Lead Developer @ Mastercopy  
-- 🛡️ Interested in Ethical Hacking & Cybersecurity  
+💻 Passionate self-taught developer & IT enthusiast
+🚀 Lead Developer @ Mastercopy
+⚙️ DevOps & Cloud Infrastructure
+🛡️ Ethical Hacking & Cybersecurity 
 
 ---
 
